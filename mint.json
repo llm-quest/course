@@ -55,7 +55,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "home",
         "quickstart",
         "development"
       ]
@@ -87,8 +87,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/mertbozkirr",
+    "github": "https://github.com/mertbozkir",
+    "linkedin": "https://www.linkedin.com/in/mertbozkir"
   }
 }
