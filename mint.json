@@ -9,9 +9,9 @@
   "colors": {
     "primary": "#FF4B5C",
     "light": "#FF7A8A",
-    "dark": "#D1203C",
+    "dark": "#E03448",
     "ultraLight": "#FFA1B3",
-    "ultraDark": "#A80027",
+    "ultraDark": "#C71E30",
     "background": {
       "dark": "#1E1E1E"
     }
