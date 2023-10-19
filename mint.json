@@ -16,6 +16,11 @@
       "dark": "#080808"
     }
   },
+  "feedback": {
+    "suggestEdit": true,
+    "raiseIssue": true,
+    "thumbsRating": true
+  },
   "search": {
     "prompt": "✨ Make magic..."
   },
