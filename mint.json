@@ -16,6 +16,9 @@
       "dark": "#080808"
     }
   },
+  "search": {
+    "prompt": "✨ Make magic..."
+  },
   "topbarLinks": [
     {
       "name": "Contact",
