@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "The Dope LLM Engineer",
   "logo": {
-    "dark": "/logo/tilki.svg",
-    "light": "/logo/tilki.svg"
+    "dark": "/logo/llmeng.svg",
+    "light": "/logo/llmeng.svg"
   },
   "favicon": "tilki.png",
   "colors": {
