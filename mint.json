@@ -24,10 +24,12 @@
   "search": {
     "prompt": "🔥 Ignite Ideas..."
   },
-  "topbarCtaButton": {
-    "type": "github",
-    "url": "https://github.com/mage-ai/mage-ai"
-  },
+  "topbarLinks": [
+    {
+      "name": "Github",
+      "url": "https://github.com/mertbozkir/llm-engineer"
+    }
+  ],
   "topbarCtaLink": {
     "name": "Join Discord!",
     "url": "https://discord.gg/3767v2KfGa"
