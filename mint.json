@@ -24,14 +24,12 @@
   "search": {
     "prompt": "🔥 Ignite Ideas..."
   },
-  "topbarLinks": [
-    {
-      "name": "Contact",
-      "url": "mailto:mert@mertbozkir.com"
-    }
-  ],
   "topbarCtaButton": {
-    "name": "Join to the Community",
+    "type": "github",
+    "url": "https://github.com/mage-ai/mage-ai"
+  },
+  "topbarCtaLink": {
+    "name": "Join Discord!",
     "url": "https://discord.gg/3767v2KfGa"
   },
   "tabs": [
