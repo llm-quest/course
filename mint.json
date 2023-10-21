@@ -91,6 +91,12 @@
       "pages": [
         "deploy/overview"
       ]
+    },
+    {
+      "group": "Projects",
+      "pages": [
+        "projects/overview"
+      ]
     }
   ],
   "footerSocials": {
