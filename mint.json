@@ -87,6 +87,12 @@
       ]
     },
     {
+      "group": "Course",
+      "pages": [
+        "learn/course/introduction-to-llms"
+      ]
+    },
+    {
       "group": "Deploy",
       "pages": [
         "deploy/overview"
