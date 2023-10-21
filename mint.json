@@ -24,20 +24,29 @@
   "search": {
     "prompt": "🔥 Ignite Ideas..."
   },
-  "topbarLinks": [
-    {
-      "name": "Github",
-      "url": "https://github.com/mertbozkir/llm-engineer"
-    }
-  ],
   "topbarCtaButton": {
     "name": "Join Discord!",
-    "url": "https://discord.gg/3767v2KfGa"
+    "url": "https://discord.gg/BqBmk7JCn8"
+  },
+  "primaryTab": {
+    "name": "Home"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Learn",
+      "url": "learn"
+    },
+    {
+      "name": "Deploy",
+      "url": "deploy"
+    },
+    {
+      "name": "Projects",
+      "url": "projects"
+    },
+    {
+      "name": "Contribute",
+      "url": "contributing"
     }
   ],
   "anchors": [
@@ -48,8 +57,8 @@
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "discord",
+      "url": "https://discord.gg/BqBmk7JCn8"
     },
     {
       "name": "Blog",
@@ -63,27 +72,23 @@
       "pages": [
         "home",
         "quickstart",
-        "development"
+        "about"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation"
+        "essentials/setup"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Learn",
       "pages": [
         "api-reference/authentication"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Deploy",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
