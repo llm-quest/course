@@ -43,10 +43,6 @@
     {
       "name": "Projects",
       "url": "projects"
-    },
-    {
-      "name": "Contribute",
-      "url": "contributing"
     }
   ],
   "anchors": [
@@ -58,7 +54,7 @@
     {
       "name": "Roadmap",
       "icon": "map",
-      "url": "https://discord.gg/BqBmk7JCn8"
+      "url": "https://llmengineer.dev/home/roadmap"
     },
     {
       "name": "Blog",
