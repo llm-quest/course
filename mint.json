@@ -51,13 +51,13 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Course!",
+      "icon": "megaphone",
+      "url": "https://maven.com/aimakerspace/llm-engineering"
     },
     {
-      "name": "Community",
-      "icon": "discord",
+      "name": "Roadmap",
+      "icon": "map",
       "url": "https://discord.gg/BqBmk7JCn8"
     },
     {
@@ -68,32 +68,32 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Adventure Begins!",
       "pages": [
-        "home",
-        "quickstart",
-        "about"
+        "home/home",
+        "home/quickstart",
+        "home/philosophy",
+        "home/roadmap",
+        "home/reach-out"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/setup"
+        "home/essentials/setup",
+        "home/essentials/glossary"
       ]
     },
     {
       "group": "Learn",
       "pages": [
-        "api-reference/authentication"
+        "learn/overview"
       ]
     },
     {
       "group": "Deploy",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
+        "deploy/overview"
       ]
     }
   ],
