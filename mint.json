@@ -66,17 +66,17 @@
     {
       "group": "Adventure Begins!",
       "pages": [
-        "home/dope",
-        "home/philosophy",
-        "home/roadmap",
-        "home/reach-out"
+        "dope",
+        "philosophy",
+        "roadmap",
+        "reach-out"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "home/essentials/llm-env",
-        "home/essentials/glossary"
+        "essentials/llm-env",
+        "essentials/glossary"
       ]
     },
     {
