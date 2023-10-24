@@ -75,7 +75,7 @@
     {
       "group": "Essentials",
       "pages": [
-        "home/essentials/setup",
+        "home/essentials/llm-env",
         "home/essentials/glossary"
       ]
     },
