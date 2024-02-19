@@ -24,6 +24,11 @@
   "search": {
     "prompt": "🔥 Ignite Ideas..."
   },
+  "analytics": {
+    "ga4": {
+        "measurementId": "G-9X7K6F5M7H"
+    }
+}
   "topbarCtaButton": {
     "name": "Join Discord!",
     "url": "https://discord.gg/BqBmk7JCn8"
